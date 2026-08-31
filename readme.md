@@ -2,4 +2,4 @@
 icon: smiley
 ---
 # Welcome to Crust!
-![](/asdasdssss-1.png)
+![](/asdasdssss.png)
