@@ -1,0 +1,24 @@
+{
+  "name": "retype",
+  "version": "1.0.0",
+  "description": "---\r icon: smiley\r ---\r # Welcome to Crust!\r ![](/asdasdssss-1.png)",
+  "main": "index.js",
+  "scripts": {
+    "build": "retype build"
+  },
+  "devDependencies": {
+    "retypeapp": "latest"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1tapF/crustwebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/1tapF/crustwebsite/issues"
+  },
+  "homepage": "https://github.com/1tapF/crustwebsite#readme"
+}
