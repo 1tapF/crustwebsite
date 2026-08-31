@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://docs.example.com/</loc>
+    <loc>https://wwww.crustmc.top/</loc>
+    <lastmod>2026-08-31T20:16:34Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wwww.crustmc.top/guides/</loc>
     <lastmod>2026-08-31T19:22:22Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.example.com/guides/</loc>
+    <loc>https://wwww.crustmc.top/guides/1-(1)/</loc>
     <lastmod>2026-08-31T19:22:22Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.example.com/guides/1-(1)/</loc>
+    <loc>https://wwww.crustmc.top/guides/1-(2)/</loc>
     <lastmod>2026-08-31T19:22:22Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.example.com/guides/1-(2)/</loc>
+    <loc>https://wwww.crustmc.top/guides/1-(3)/</loc>
     <lastmod>2026-08-31T19:22:22Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.example.com/guides/1-(3)/</loc>
-    <lastmod>2026-08-31T19:22:22Z</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.example.com/guides/raiding/</loc>
+    <loc>https://wwww.crustmc.top/guides/raiding/</loc>
     <lastmod>2026-08-31T19:22:22Z</lastmod>
   </url>
 </urlset>
