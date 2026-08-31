@@ -1,0 +1,65 @@
+name: Retype Build Action
+author: Object.NET, Inc.
+description: |-
+  Builds documentation using Retype. The output from this step can be
+  published to the hosting of choice.
+inputs:
+  output:
+    description: |-
+      Custom folder to store the output from the Retype build process. Default is `""` (empty).
+    required: false
+    default: ''
+  key:
+    description: |-
+      Retype Key to unlock Pro features. Your Retype Key is private. 
+      Please store your key as a GitHub secret.
+    required: false
+    default: ''
+  password:
+    description: |-
+      Private password used to generate private and protected pages.
+    required: false
+    default: ''
+  strict:
+    description: |-
+      Allows the build to return a non-zero exit code if it encounters any
+      errors or warnings. This can be particularly helpful for developers when
+      they need to validate the stability of their builds. Default is false.
+    required: false
+    default: 'false'
+  override:
+    description: |-
+      JSON configuration overriding project config values. Default is "" (empty).
+    required: false
+    default: ''
+  verbose:
+    description: |-
+      Enable verbose logging during build process. Default is false.
+    required: false
+    default: 'false'
+  config_path:
+    description: |-
+      Path to the retype.yml file. May point to a directory, a JSON or YAML
+      file. If a directory, Retype will look for the 'retype.[yml|yaml|json]' 
+      file in this directory.
+    default: ''
+outputs:
+  retype-output-path:
+    description: |-
+      Path to the Retype output that can be referenced in other steps
+      within the same workflow.
+    value: ${{ steps.retype-build.outputs.retype-output-path }}
+runs:
+  using: "composite"
+  steps:
+    - id: retype-build
+      run: "${GITHUB_ACTION_PATH}/build.sh"
+      shell: bash
+      env:
+        INPUT_OUTPUT: ${{ inputs.output }}
+        INPUT_KEY: ${{ inputs.key || inputs.secret || inputs.license }}
+        INPUT_PASSWORD: ${{ inputs.password }}
+        INPUT_STRICT: ${{ inputs.strict }}
+        INPUT_OVERRIDE: ${{ inputs.override }}
+        INPUT_VERBOSE: ${{ inputs.verbose }}
+        INPUT_CONFIG_PATH: ${{ inputs.config_path || inputs.config }}
