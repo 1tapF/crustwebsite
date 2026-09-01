@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wwww.crustmc.top/sitemap.xml
+Sitemap: https://www.crustmc.top/sitemap.xml
