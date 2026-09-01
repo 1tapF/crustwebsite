@@ -1,6 +1,6 @@
 {
   "version": "4.6.0",
-  "created": "2026-08-31T18:16:55Z",
+  "created": "2026-09-01T05:58:02Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -15,22 +15,34 @@
       "path": "CNAME"
     },
     {
-      "path": "guides\\1-(1).md"
+      "path": "crust.png"
     },
     {
-      "path": "guides\\1-(1)\\index.html"
+      "path": "guides.png"
     },
     {
-      "path": "guides\\1-(2).md"
+      "path": "guides\\1-(1).md",
+      "old": true
     },
     {
-      "path": "guides\\1-(2)\\index.html"
+      "path": "guides\\1-(1)\\index.html",
+      "old": true
     },
     {
-      "path": "guides\\1-(3).md"
+      "path": "guides\\1-(2).md",
+      "old": true
     },
     {
-      "path": "guides\\1-(3)\\index.html"
+      "path": "guides\\1-(2)\\index.html",
+      "old": true
+    },
+    {
+      "path": "guides\\1-(3).md",
+      "old": true
+    },
+    {
+      "path": "guides\\1-(3)\\index.html",
+      "old": true
     },
     {
       "path": "guides\\index.html"
@@ -39,22 +51,47 @@
       "path": "guides\\index.md"
     },
     {
+      "path": "guides\\items.md"
+    },
+    {
+      "path": "guides\\items\\index.html"
+    },
+    {
+      "path": "guides\\loot.md"
+    },
+    {
+      "path": "guides\\loot\\index.html"
+    },
+    {
       "path": "guides\\raiding.md"
     },
     {
       "path": "guides\\raiding\\index.html"
     },
     {
-      "path": "guides\\rsas.png"
+      "path": "guides\\rsas.png",
+      "old": true
+    },
+    {
+      "path": "ietryfg.png"
     },
     {
       "path": "index.html"
     },
     {
+      "path": "items.png"
+    },
+    {
       "path": "llms.txt"
     },
     {
+      "path": "loot.png"
+    },
+    {
       "path": "package.json"
+    },
+    {
+      "path": "raiding.png"
     },
     {
       "path": "readme.md"

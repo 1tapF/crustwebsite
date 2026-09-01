@@ -1,2 +1,2 @@
 # Welcome to Crust!
-![](/asdasdssss.png)
+![](/crust.png)
