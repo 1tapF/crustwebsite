@@ -1,1 +1,1 @@
-![](/sfsdfsdf.png)
+![](/guides.png)
