@@ -1,6 +1,6 @@
 {
   "version": "4.6.0",
-  "created": "2026-08-31T14:35:57Z",
+  "created": "2026-08-31T18:16:55Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -9,13 +9,52 @@
       "path": "404.html"
     },
     {
+      "path": "asdasdssss.png"
+    },
+    {
       "path": "CNAME"
+    },
+    {
+      "path": "guides\\1-(1).md"
+    },
+    {
+      "path": "guides\\1-(1)\\index.html"
+    },
+    {
+      "path": "guides\\1-(2).md"
+    },
+    {
+      "path": "guides\\1-(2)\\index.html"
+    },
+    {
+      "path": "guides\\1-(3).md"
+    },
+    {
+      "path": "guides\\1-(3)\\index.html"
+    },
+    {
+      "path": "guides\\index.html"
+    },
+    {
+      "path": "guides\\index.md"
+    },
+    {
+      "path": "guides\\raiding.md"
+    },
+    {
+      "path": "guides\\raiding\\index.html"
+    },
+    {
+      "path": "guides\\rsas.png"
     },
     {
       "path": "index.html"
     },
     {
       "path": "llms.txt"
+    },
+    {
+      "path": "package.json"
     },
     {
       "path": "readme.md"
@@ -61,6 +100,12 @@
     },
     {
       "path": "robots.txt"
+    },
+    {
+      "path": "rsas.png"
+    },
+    {
+      "path": "sfsdfsdf.png"
     },
     {
       "path": "sitemap.xml"
