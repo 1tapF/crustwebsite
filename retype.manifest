@@ -1,6 +1,6 @@
 {
   "version": "4.6.0",
-  "created": "2026-09-01T05:58:02Z",
+  "created": "2026-09-01T06:30:50Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -9,7 +9,8 @@
       "path": "404.html"
     },
     {
-      "path": "asdasdssss.png"
+      "path": "asdasdssss.png",
+      "old": true
     },
     {
       "path": "CNAME"
@@ -73,7 +74,8 @@
       "old": true
     },
     {
-      "path": "ietryfg.png"
+      "path": "ietryfg.png",
+      "old": true
     },
     {
       "path": "index.html"
@@ -89,6 +91,9 @@
     },
     {
       "path": "package.json"
+    },
+    {
+      "path": "pixil-frame-0.png"
     },
     {
       "path": "raiding.png"
@@ -139,10 +144,12 @@
       "path": "robots.txt"
     },
     {
-      "path": "rsas.png"
+      "path": "rsas.png",
+      "old": true
     },
     {
-      "path": "sfsdfsdf.png"
+      "path": "sfsdfsdf.png",
+      "old": true
     },
     {
       "path": "sitemap.xml"

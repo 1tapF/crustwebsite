@@ -1,7 +1,7 @@
 input: .
 output: .retype
 
-url: wwww.crustmc.top # Use your website address here
+url: https://www.crustmc.top # Use your website address here
 
 start:
   # Uncomment the next line to try Retype Pro features
@@ -9,4 +9,5 @@ start:
 
 branding:
   title: Crust
-  
+
+favicon: pixil-frame-0.png

@@ -1,10 +1,10 @@
 ﻿# Welcome to Crust!
 
-- [Welcome to Crust!](https://wwww.crustmc.top/readme.md): Welcome to Crust!
-- [Guides](https://wwww.crustmc.top/guides/index.md)
+- [Welcome to Crust!](https://www.crustmc.top/readme.md): Welcome to Crust!
+- [Guides](https://www.crustmc.top/guides/index.md)
 
 ## Guides
 
-- [Items](https://wwww.crustmc.top/guides/items.md)
-- [Loot](https://wwww.crustmc.top/guides/loot.md)
-- [Raiding](https://wwww.crustmc.top/guides/raiding.md)
+- [Items](https://www.crustmc.top/guides/items.md)
+- [Loot](https://www.crustmc.top/guides/loot.md)
+- [Raiding](https://www.crustmc.top/guides/raiding.md)
